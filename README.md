@@ -6,12 +6,12 @@ Este repositorio contiene la prueba técnica para el cargo Python Developer - Ba
 
 Para comenzar, clone el repositorio en su máquina local utilizando el siguiente comando de Git:
 
-`git clone url.com`
+`git clone https://github.com/DaniPineda7687/PruebaTecnicaPython`
 
 ## Entrar a la carpeta del proyecto
 Una vez que haya clonado el repositorio, navegue a la carpeta del proyecto utilizando el siguiente comando:
 
-`cd ./PruebaTecnica`
+`cd ./PruebaTecnicaPython`
 
 ## Construir los contenedores
 El proyecto utiliza contenedores Docker para gestionar su entorno. Para construir los contenedores necesarios, ejecute el siguiente comando en la raíz del proyecto:
